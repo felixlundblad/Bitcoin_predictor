@@ -1,0 +1,6 @@
+.vscode
+.*cache
+data
+*.h5
+*/.keys.txt
+*/.ipynb_checkpoints
